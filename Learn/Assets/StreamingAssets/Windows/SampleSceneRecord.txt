@@ -1,0 +1,4 @@
+3
+Cube.mat samplescene/materials/cube.unity3d
+Capsule.prefab samplescene/prefabs/capsule.unity3d
+Cube.prefab samplescene/prefabs/cube.unity3d

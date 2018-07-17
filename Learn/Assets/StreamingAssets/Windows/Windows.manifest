@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 2063082137
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: samplescene/materials/cube.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: samplescene/prefabs/capsule.unity3d
+      Dependencies:
+        Dependency_0: samplescene/materials/cube.unity3d
+    Info_2:
+      Name: samplescene/prefabs/cube.unity3d
+      Dependencies:
+        Dependency_0: samplescene/materials/cube.unity3d
